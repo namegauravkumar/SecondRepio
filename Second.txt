@@ -1,1 +1,4 @@
 This is Second Repository  I  want to push this file into  GitHub Server.
+
+print("hello world")
+print("welcome to edureka!")
